@@ -25,7 +25,7 @@ body{
 }
 .navbutton:hover{
 	color:black;
-	background-color: pink;
+	background-color: pink
 }
 .navbutton2{
 	padding:10px;
@@ -64,4 +64,12 @@ body{
 a{
 	color:pink;
 	text-decoration: none;
+}
+.footer{
+	font-size: 10px;
+	position: fixed;
+	bottom: 0%;
+	right:0%;
+	color:gray;
+	font-family: helvetica;
 }
